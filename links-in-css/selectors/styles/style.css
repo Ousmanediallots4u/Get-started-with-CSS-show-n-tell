@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 50px;
+}
+
+
+h1 {
+    text-shadow: 10dvh;
+    text-transform: uppercase;
+}
+
+.country {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: end;
+    font-size: 25px;
+}
+
+#state {
+    text-align: center;
+    font-stretch: expanded;
+    background-color: aqua;
+}
+
+
+div p {
+    color: blue; 
+    font-style: italic;
+}
+
+
+ul > li {
+    font-size: 40px;
+}

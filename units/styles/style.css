@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+html {
+    font-size: 50px;
+}
+p {
+    font-size: 12px;
+    text-align: center;
+}
+
+
+
+
+h1 {
+    font-size: 110%;
+}
+
+
+h4 {
+    font-size: 2em;
+    text-align: center;
+}
+
+h3 {
+    font-size: 1rem;
+    color: aquamarine;
+}
+
+#first-paragraph {
+   border: 1px solid red;
+   font-size: 20vmin;
+   background-color: aqua;
+
+}
+
+button {
+    padding: 4% 4%;
+    background-color: beige;
+    border-radius: 5%;
+}
+
+.second-pragraph {
+    font-style: oblique;
+    font-variant: small-caps;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 120%;
+}
